@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Incentives Calculator</string>
+    <string name="sphHint">Enter current SPH</string>
+    <string name="percentageHint">Percentage</string>
+</resources>
